@@ -11,3 +11,6 @@
 # Acoustic Word Embedding Code:
 AWE_code.ipynb
 
+
+# Reference Paper
+https://github.com/christiaanjacobs/globalphone_awe_pytorch
